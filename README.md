@@ -1,6 +1,6 @@
 # Hola! <img src="https://raw.githubusercontent.com/kondekarshubham123/kondekarshubham123/master/assets/wave.gif" width="30px">, I'm Shubham Kondekar
 
-![logo](https://github.com/kondekarshubham123/kondekarshubham123/blob/master/assets/Software%20Developer.png)
+![logo](https://github.com/kondekarshubham123/kondekarshubham123/blob/main/assets/Software%20Developer.png)
 
 [![Gists Badge](https://badges.pufler.dev/gists/kondekarshubham123)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/kondekarshubham123)](https://badges.pufler.dev)
