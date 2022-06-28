@@ -1,4 +1,4 @@
-# Hola! <img src="https://raw.githubusercontent.com/kondekarshubham123/kondekarshubham123/master/assets/wave.gif" width="30px">, I'm Shubham Kondekar
+# Hola! I'm Shubham Kondekar
 
 ![logo](https://github.com/kondekarshubham123/kondekarshubham123/blob/main/assets/Software%20Developer.png)
 
