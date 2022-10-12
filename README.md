@@ -2,11 +2,6 @@
 
 ![logo](https://github.com/kondekarshubham123/kondekarshubham123/blob/main/assets/Software%20Developer.png)
 
-[![Gists Badge](https://badges.pufler.dev/gists/kondekarshubham123)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/kondekarshubham123)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/kondekarshubham123)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/kondekarshubham123)](https://badges.pufler.dev)
-
 ---
 
 I'm, a Software developer living near Solapur, specialized in **Python** and **Flask & Django (Python Frameworks)**. I've been a **Python Programmer**, since **November 2019**.
