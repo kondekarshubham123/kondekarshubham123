@@ -44,6 +44,7 @@ I'm, a Software developer living near Solapur, specialized in **Python** and **F
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=kondekarshubham123)
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=kondekarshubham123)](https://holopin.io/@kondekarshubham123)
 
 ---
 
